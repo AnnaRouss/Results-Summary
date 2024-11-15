@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/AnnaRouss/Results-Summary/main/](https://github.com/AnnaRouss/Results-Summary/main/)
+- Solution URL: [https://github.com/AnnaRouss/Results-Summary](https://github.com/AnnaRouss/Results-Summary)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 
